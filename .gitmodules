@@ -1,0 +1,3 @@
+[submodule "lib/stm32-svd"]
+	path = lib/stm32-svd
+	url = https://github.com/tinygo-org/stm32-svd.git
